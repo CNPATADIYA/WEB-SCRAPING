@@ -12,3 +12,6 @@ to run this tool :
 python tk.py
 
 <img src = "run.png"></img>
+
+
+<b>NOTE</b> : If you want to scrap other url simply change url in files which are in spider directory. This tool limited to amazon ,flipcart and shopeclue
